@@ -1,4 +1,4 @@
-This is a basic flask application with web socket to get real time data and display them on chart.
+This is a basic flask application with web socket and ajax to get real time data and display them on chart.
 
 # To run
 
